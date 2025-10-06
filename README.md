@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @BoopathikannanNatarajan
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning Computer science Engineering
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Boopathikannan Natarajan
+💻 Passionate Computer Science Engineer | Developer | Designer
 
-<!---
-BoopathikannanNatarajan/BoopathikannanNatarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in learning and building innovative technology solutions.
+🌱 I’m currently pursuing B.E. Computer Science and Engineering at Sri Shanmugha College of Engineering and Technology (2022–2026).
+💞️ I’m looking to collaborate on open-source projects and creative app or web development ideas on GitHub.
+📫 You can reach me at boopathikannanofficial@gmail.com
+⚡ Fun fact: I love blending design and development to create smooth, aesthetic digital experiences.
+
+Languages & Technologies: Flutter, Dart, HTML, CSS, JavaScript, PHP, Firebase, Bootstrap, Tailwind, Java, Figma, Adobe XD, Photoshop, Git, GitHub.
+
+Interests: UI/UX Design, Full Stack Development, Mobile App Development, and Cloud Integration.
+
+Quote: “Code is like humor. When you have to explain it, it’s bad.” – Cory House
